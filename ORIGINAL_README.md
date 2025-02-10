@@ -1,5 +1,5 @@
 
-# My little project
+# Hoa Project
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 ## Table of Contents
@@ -12,25 +12,25 @@
 - [Questions](#questions)
 
 ## Description
-guide users to do build up a better project 
+bah bah bah
 
 ## Installation
-Run npm install to install the required dependencies
+123
 
 ## Usage
-To start the app, run node server.js in your terminal
+some instrcution
 
 ## License  
 This project is licensed under the MIT License.  
 For more details, visit [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contributing
-Fork this repo and submit a pull request with your improvements
+it's up to them
 
 ## Tests
-Run npm test to execute the tests
+i dont know
 
 ## Questions
-If you have any questions, reach out at **myemail@gmail.com**.  
+If you have any questions, reach out at **hoa.sullivan.87@gmail.com**.  
 GitHub: [ThuyHoaSullivan](https://github.com/ThuyHoaSullivan)
   
